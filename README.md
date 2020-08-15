@@ -21,8 +21,23 @@
 - [Git History](https://marketplace.visualstudio.com/items?itemName=donjayamanne.githistory)
  
  [IntelliJ IDEA](https://www.jetbrains.com/help/idea/enabling-version-control.html#associate_directory_with_VCS)
+
 [Eclipse - EGit](https://www.eclipse.org/egit/)
+
 [Sublime-Text](https://www.sublimetext.com/docs/3/git_integration.html)
+
 [Atom](https://github.blog/2017-05-16-integrating-git-in-atom/)
+
 [Brackets](https://github.com/brackets-userland/brackets-git)
+
 [Vim](https://vim.fandom.com/wiki/Using_Git_from_Vim)
+
+## Tutorials and Documentation
+- [Atlassian: Git Tutorials](https://www.atlassian.com/git/tutorials)
+- [git-scm](https://git-scm.com/doc)
+- [GitHub Guides](https://guides.github.com/)
+- [Git HandBook](https://guides.github.com/introduction/git-handbook/)
+- [Learn Git Branching](https://learngitbranching.js.org/)
+- [Git-It from the CMD line](https://github.com/jlord/git-it-electron#git-it-desktop-app)
+- [Git Visualizer: Revise your Git concepts](http://git-school.github.io/visualizing-git/)
+- [GitHub Learning Lab](https://lab.github.com/)
