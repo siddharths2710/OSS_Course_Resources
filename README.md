@@ -33,6 +33,7 @@
 - [Vim](https://vim.fandom.com/wiki/Using_Git_from_Vim)
 
 ## Tutorials and Documentation
+- [How to Contribute to Open-Source](https://opensource.guide/how-to-contribute/)
 - [Atlassian: Git Tutorials](https://www.atlassian.com/git/tutorials)
 - [git-scm](https://git-scm.com/doc)
 - [GitHub Guides](https://guides.github.com/)
@@ -41,6 +42,7 @@
 - [Git-It from the CMD line](https://github.com/jlord/git-it-electron#git-it-desktop-app)
 - [Git Visualizer: Revise your Git concepts](http://git-school.github.io/visualizing-git/)
 - [GitHub Learning Lab](https://lab.github.com/)
+- [Guide to Git commit messages](https://tbaggery.com/2008/04/19/a-note-about-git-commit-messages.html)
 
 ## Bounties and Freelancing
 - [BOSS](https://www.boss.dev/)
