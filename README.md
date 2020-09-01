@@ -55,4 +55,4 @@
 - [Google Summer of Code ( GSoC )](https://summerofcode.withgoogle.com/)
 - [MLH Fellowship](https://fellowship.mlh.io/)
 - [GitHub Sponsors](https://github.com/sponsors)
-
+- [HacktoberFest](https://hacktoberfest.digitalocean.com)
