@@ -64,3 +64,6 @@
 - [MLH Fellowship](https://fellowship.mlh.io/)
 - [GitHub Sponsors](https://github.com/sponsors)
 - [HacktoberFest](https://hacktoberfest.digitalocean.com)
+- [Open Summer of Code (OSoC)](https://osoc.be/)
+- [FSF Internship](https://www.fsf.org/volunteer/internships)
+- [GirlScript Summer of Code](https://gssoc.girlscript.tech/)
