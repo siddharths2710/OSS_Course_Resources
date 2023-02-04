@@ -45,14 +45,22 @@
 - [Guide to Git commit messages](https://tbaggery.com/2008/04/19/a-note-about-git-commit-messages.html)
 
 ## Bounties and Freelancing
+- [goodfirstissue](https://goodfirstissue.dev/)
 - [BOSS](https://www.boss.dev/)
+- [Huntr](https://huntr.dev/)
 - [Bountysource](https://www.bountysource.com/)
+- [Square Bounty](https://bugcrowd.com/squareopensource)
+- [Google BugHunters](https://bughunters.google.com/about/rules/6521337925468160/google-open-source-software-vulnerability-reward-program-rules)
 - [GitCoin](https://gitcoin.co/)
 - [IssueHunt](https://issuehunt.io/)
 - [HackerOne - Internet Bug Bounty](https://www.hackerone.com/internet-bug-bounty)
 
 ## Initiatives for Contributors
+- [LFX Mentorship](https://lfx.linuxfoundation.org/tools/mentorship/)
+- [Linux Kernel Mentorship](https://wiki.linuxfoundation.org/lkmp)
+- [Outreachy](https://www.outreachy.org/)
 - [Google Summer of Code ( GSoC )](https://summerofcode.withgoogle.com/)
+- [Google Season of Docs](https://developers.google.com/season-of-docs)
 - [MLH Fellowship](https://fellowship.mlh.io/)
 - [GitHub Sponsors](https://github.com/sponsors)
 - [HacktoberFest](https://hacktoberfest.digitalocean.com)
