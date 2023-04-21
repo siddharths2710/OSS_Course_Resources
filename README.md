@@ -67,3 +67,4 @@
 - [Open Summer of Code (OSoC)](https://osoc.be/)
 - [FSF Internship](https://www.fsf.org/volunteer/internships)
 - [GirlScript Summer of Code](https://gssoc.girlscript.tech/)
+- [Sell your own OSS](https://codesubmit.io/blog/marketing-your-open-source-project/)
